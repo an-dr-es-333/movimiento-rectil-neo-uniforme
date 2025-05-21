@@ -1,1 +1,0 @@
-# movimiento-rectil-neo-uniforme
